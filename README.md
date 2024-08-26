@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou a Jesus Moraes🤟🤟🤟
 
-<!--
-**Maje47/Maje47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Hoje trabalho desenvolvendo produtos e designer inclusivos 
+- 🌱 Estudando Front-end (HTML,CSS,JS) e Paytho
+- 📫 contate-me no e-mail: jesusmoraes35@gmail.com
+- 😄 Pronouns: ela/dela
+- 🤗 Mas podem me chamar de Maje
+- 🤩Apaixonada por programação Inclusiva++
 -->
+<div> 
+  <a href= "https://github.com/Maje47">
+
+</div>
